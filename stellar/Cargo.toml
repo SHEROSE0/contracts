@@ -3,6 +3,7 @@ members = [
   "stealth-announcer",
   "stealth-registry",
   "stealth-sender",
+  "stealth-splitter",
   "wraith-names",
 ]
 resolver = "2"
